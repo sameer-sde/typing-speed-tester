@@ -1,6 +1,12 @@
 # ⌨️ TypeFast — Typing Speed Tester
 
-TypeFast is a sleek, gamified typing speed tester built with plain HTML, CSS, and JavaScript. Practice your typing, chase new personal bests, and track your progress over time — all in the browser. [web:2][web:6]
+TypeFast is a sleek, gamified typing speed tester built with plain HTML, CSS, and JavaScript. Practice your typing, chase new personal bests, and track your progress over time — all in the browser.
+
+---
+
+## 🚀 Live Demo
+
+🔗 [View Live Demo](https://sameer-sde.github.io/typing-speed-tester/)
 
 ---
 
@@ -192,5 +198,6 @@ Tested or expected to work in modern browsers:
 
 ## 📜 License
 
-This project is currently suitable for personal and educational use.  
-Add your preferred open-source license (MIT, Apache-2.0, etc.) before publishing publicly.
+This project is created for learning and personal use.
+
+If you want to make it open source, add a proper license such as MIT or Apache-2.0 in a `LICENSE` file.
