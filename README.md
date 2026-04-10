@@ -198,6 +198,6 @@ Tested or expected to work in modern browsers:
 
 ## 📜 License
 
-This project is created for learning and personal use.
+This project is licensed under the MIT License.
 
-If you want to make it open source, add a proper license such as MIT or Apache-2.0 in a `LICENSE` file.
+See the [`LICENSE`](./LICENSE) file for details.
